@@ -10,5 +10,5 @@ g2.png: t2.txt grafica2.py
 	python grafica2.py
 t2.txt: eje21_2
 	./eje21_2 > t2.txt
-eje21: Ejercicio21_2.cpp
+eje21_2: Ejercicio21_2.cpp
 	c++ Ejercicio21_2.cpp -o eje21_2
